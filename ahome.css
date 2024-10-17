@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-size: 50px;
+}
+
+a {
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
